@@ -1,2 +1,4 @@
 # KVPN
-Created vpn based application using the windscribe and python tkinter
+Created VPN based application using the windscribe and python tkinter
+
+## Demo
